@@ -1,0 +1,4 @@
+firefox
+apache
+mysql
+ubuntu-touch

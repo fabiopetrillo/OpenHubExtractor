@@ -1,0 +1,122 @@
+Project|Language|CodeLines|TotalLines|Percentage
+firefox|C++|5,279,235|7,430,742|32.1
+firefox|JavaScript|3,680,145|5,700,431|24.6
+firefox|C|2,424,272|3,515,445|15.2
+firefox|HTML|2,116,633|2,468,134|10.7
+firefox|Rust|732,038|930,844|4.0
+firefox|XML|577,446|634,469|2.7
+firefox|Python|540,733|834,294|3.6
+firefox|Java|313,831|496,427|2.1
+firefox|Assembly|228,805|284,002|1.2
+firefox|CSS|170,793|211,047|0.9
+firefox|Autoconf|119,429|137,911|0.6
+firefox|shell script|95,990|127,702|0.6
+firefox|OpenGL Shading|60,525|148,887|0.6
+firefox|Objective-C|52,604|72,022|0.3
+firefox|Make|50,454|78,625|0.3
+firefox|Perl|16,408|23,730|0.1
+firefox|NSIS|10,096|15,086|0.1
+firefox|TeX/LaTeX|6,860|11,081|0.0
+firefox|CMake|6,274|9,426|0.0
+firefox|DOS batch script|3,390|4,134|0.0
+firefox|Automake|3,272|3,857|0.0
+firefox|DCL|1,840|2,360|0.0
+firefox|Ada|1,697|2,861|0.0
+firefox|XSL Transformation|1,403|1,706|0.0
+firefox|Pascal|1,181|1,569|0.0
+firefox|Matlab|1,041|1,449|0.0
+firefox|C#|879|1,615|0.0
+firefox|Jam|586|1,135|0.0
+firefox|Ruby|476|635|0.0
+firefox|PHP|436|860|0.0
+firefox|Go|314|485|0.0
+firefox|Emacs Lisp|258|338|0.0
+firefox|Scala|164|195|0.0
+firefox|AWK|156|208|0.0
+firefox|HaXe|137|167|0.0
+firefox|Visual Basic|84|116|0.0
+firefox|CoffeeScript|34|64|0.0
+firefox|MetaFont|18|24|0.0
+firefox|IDL/PV-WAVE/GDL|15|17|0.0
+firefox|R|12|38|0.0
+firefox|D|10|57|0.0
+firefox|Vim Script|4|4|0.0
+apache|XML|949,630|1,150,946|47.5
+apache|C|525,594|774,405|32.0
+apache|Forth|311,423|363,278|15.0
+apache|HTML|37,811|44,681|1.8
+apache|XSL Transformation|17,353|25,583|1.1
+apache|Autoconf|7,801|10,084|0.4
+apache|shell script|4,604|7,275|0.3
+apache|CSS|4,315|6,356|0.3
+apache|Lua|3,848|4,734|0.2
+apache|JavaScript|3,387|5,235|0.2
+apache|C++|2,995|8,606|0.4
+apache|AWK|2,986|3,864|0.2
+apache|IDL/PV-WAVE/GDL|2,766|2,766|0.1
+apache|Perl|2,546|3,937|0.2
+apache|Make|2,140|3,304|0.1
+apache|CMake|2,111|2,641|0.1
+apache|Ruby|1,162|1,471|0.1
+apache|D|616|648|0.0
+apache|Python|339|514|0.0
+apache|TeX/LaTeX|78|240|0.0
+apache|Visual Basic|28|64|0.0
+apache|DOS batch script|12|25|0.0
+mysql|C++|1,477,159|2,239,799|50.2
+mysql|C|1,079,734|1,289,668|28.9
+mysql|JavaScript|436,622|596,964|13.4
+mysql|CSS|93,151|95,579|2.1
+mysql|Java|67,662|105,945|2.4
+mysql|Perl|26,630|40,718|0.9
+mysql|SQL|16,890|20,285|0.5
+mysql|CMake|15,329|23,538|0.5
+mysql|Python|7,390|10,138|0.2
+mysql|shell script|7,171|11,721|0.3
+mysql|XML|6,559|8,141|0.2
+mysql|Pascal|4,068|5,485|0.1
+mysql|HTML|3,301|4,316|0.1
+mysql|R|1,133|1,191|0.0
+mysql|XSL Transformation|955|1,157|0.0
+mysql|Automake|722|877|0.0
+mysql|Make|632|1,380|0.0
+mysql|PHP|558|997|0.0
+mysql|Autoconf|521|637|0.0
+mysql|ActionScript|374|650|0.0
+mysql|AWK|110|188|0.0
+mysql|DOS batch script|95|219|0.0
+mysql|D|93|192|0.0
+mysql|Emacs Lisp|89|220|0.0
+mysql|DCL|63|64|0.0
+mysql|Vim Script|50|105|0.0
+mysql|Visual Basic|28|29|0.0
+mysql|MetaFont|2|3|0.0
+ubuntu-touch|C++|655,822|1,014,341|31.7
+ubuntu-touch|C|636,840|944,939|29.6
+ubuntu-touch|QML|208,054|308,470|9.7
+ubuntu-touch|Autoconf|200,116|230,387|7.2
+ubuntu-touch|Python|138,259|217,886|6.8
+ubuntu-touch|shell script|103,962|136,939|4.3
+ubuntu-touch|Make|98,659|115,342|3.6
+ubuntu-touch|Vala|38,561|53,198|1.7
+ubuntu-touch|XML|36,072|40,473|1.3
+ubuntu-touch|CMake|23,975|33,942|1.1
+ubuntu-touch|Assembly|19,774|28,233|0.9
+ubuntu-touch|CSS|14,420|16,288|0.5
+ubuntu-touch|Perl|12,861|23,391|0.7
+ubuntu-touch|Automake|12,584|17,987|0.6
+ubuntu-touch|IDL/PV-WAVE/GDL|3,234|4,244|0.1
+ubuntu-touch|Java|2,065|3,732|0.1
+ubuntu-touch|TeX/LaTeX|1,266|1,602|0.1
+ubuntu-touch|XSL Transformation|732|890|0.0
+ubuntu-touch|SQL|662|717|0.0
+ubuntu-touch|Tcl|634|795|0.0
+ubuntu-touch|Ruby|374|440|0.0
+ubuntu-touch|Scilab|301|301|0.0
+ubuntu-touch|OpenGL Shading|275|563|0.0
+ubuntu-touch|Scheme|170|200|0.0
+ubuntu-touch|NSIS|134|147|0.0
+ubuntu-touch|Vim Script|97|170|0.0
+ubuntu-touch|C#|87|173|0.0
+ubuntu-touch|DOS batch script|3|3|0.0
+ubuntu-touch|MetaFont|2|2|0.0
