@@ -1,122 +1,110 @@
-Project|Language|CodeLines|TotalLines|Percentage
-firefox|C++|5,279,235|7,430,742|32.1
-firefox|JavaScript|3,680,145|5,700,431|24.6
-firefox|C|2,424,272|3,515,445|15.2
-firefox|HTML|2,116,633|2,468,134|10.7
-firefox|Rust|732,038|930,844|4.0
-firefox|XML|577,446|634,469|2.7
-firefox|Python|540,733|834,294|3.6
-firefox|Java|313,831|496,427|2.1
-firefox|Assembly|228,805|284,002|1.2
-firefox|CSS|170,793|211,047|0.9
-firefox|Autoconf|119,429|137,911|0.6
-firefox|shell script|95,990|127,702|0.6
-firefox|OpenGL Shading|60,525|148,887|0.6
-firefox|Objective-C|52,604|72,022|0.3
-firefox|Make|50,454|78,625|0.3
-firefox|Perl|16,408|23,730|0.1
-firefox|NSIS|10,096|15,086|0.1
-firefox|TeX/LaTeX|6,860|11,081|0.0
-firefox|CMake|6,274|9,426|0.0
-firefox|DOS batch script|3,390|4,134|0.0
-firefox|Automake|3,272|3,857|0.0
-firefox|DCL|1,840|2,360|0.0
-firefox|Ada|1,697|2,861|0.0
-firefox|XSL Transformation|1,403|1,706|0.0
-firefox|Pascal|1,181|1,569|0.0
-firefox|Matlab|1,041|1,449|0.0
-firefox|C#|879|1,615|0.0
-firefox|Jam|586|1,135|0.0
-firefox|Ruby|476|635|0.0
-firefox|PHP|436|860|0.0
-firefox|Go|314|485|0.0
-firefox|Emacs Lisp|258|338|0.0
-firefox|Scala|164|195|0.0
-firefox|AWK|156|208|0.0
-firefox|HaXe|137|167|0.0
-firefox|Visual Basic|84|116|0.0
-firefox|CoffeeScript|34|64|0.0
-firefox|MetaFont|18|24|0.0
-firefox|IDL/PV-WAVE/GDL|15|17|0.0
-firefox|R|12|38|0.0
-firefox|D|10|57|0.0
-firefox|Vim Script|4|4|0.0
-apache|XML|949,630|1,150,946|47.5
-apache|C|525,594|774,405|32.0
-apache|Forth|311,423|363,278|15.0
-apache|HTML|37,811|44,681|1.8
-apache|XSL Transformation|17,353|25,583|1.1
-apache|Autoconf|7,801|10,084|0.4
-apache|shell script|4,604|7,275|0.3
-apache|CSS|4,315|6,356|0.3
-apache|Lua|3,848|4,734|0.2
-apache|JavaScript|3,387|5,235|0.2
-apache|C++|2,995|8,606|0.4
-apache|AWK|2,986|3,864|0.2
-apache|IDL/PV-WAVE/GDL|2,766|2,766|0.1
-apache|Perl|2,546|3,937|0.2
-apache|Make|2,140|3,304|0.1
-apache|CMake|2,111|2,641|0.1
-apache|Ruby|1,162|1,471|0.1
-apache|D|616|648|0.0
-apache|Python|339|514|0.0
-apache|TeX/LaTeX|78|240|0.0
-apache|Visual Basic|28|64|0.0
-apache|DOS batch script|12|25|0.0
-mysql|C++|1,477,159|2,239,799|50.2
-mysql|C|1,079,734|1,289,668|28.9
-mysql|JavaScript|436,622|596,964|13.4
-mysql|CSS|93,151|95,579|2.1
-mysql|Java|67,662|105,945|2.4
-mysql|Perl|26,630|40,718|0.9
-mysql|SQL|16,890|20,285|0.5
-mysql|CMake|15,329|23,538|0.5
-mysql|Python|7,390|10,138|0.2
-mysql|shell script|7,171|11,721|0.3
-mysql|XML|6,559|8,141|0.2
-mysql|Pascal|4,068|5,485|0.1
-mysql|HTML|3,301|4,316|0.1
-mysql|R|1,133|1,191|0.0
-mysql|XSL Transformation|955|1,157|0.0
-mysql|Automake|722|877|0.0
-mysql|Make|632|1,380|0.0
-mysql|PHP|558|997|0.0
-mysql|Autoconf|521|637|0.0
-mysql|ActionScript|374|650|0.0
-mysql|AWK|110|188|0.0
-mysql|DOS batch script|95|219|0.0
-mysql|D|93|192|0.0
-mysql|Emacs Lisp|89|220|0.0
-mysql|DCL|63|64|0.0
-mysql|Vim Script|50|105|0.0
-mysql|Visual Basic|28|29|0.0
-mysql|MetaFont|2|3|0.0
-ubuntu-touch|C++|655,822|1,014,341|31.7
-ubuntu-touch|C|636,840|944,939|29.6
-ubuntu-touch|QML|208,054|308,470|9.7
-ubuntu-touch|Autoconf|200,116|230,387|7.2
-ubuntu-touch|Python|138,259|217,886|6.8
-ubuntu-touch|shell script|103,962|136,939|4.3
-ubuntu-touch|Make|98,659|115,342|3.6
-ubuntu-touch|Vala|38,561|53,198|1.7
-ubuntu-touch|XML|36,072|40,473|1.3
-ubuntu-touch|CMake|23,975|33,942|1.1
-ubuntu-touch|Assembly|19,774|28,233|0.9
-ubuntu-touch|CSS|14,420|16,288|0.5
-ubuntu-touch|Perl|12,861|23,391|0.7
-ubuntu-touch|Automake|12,584|17,987|0.6
-ubuntu-touch|IDL/PV-WAVE/GDL|3,234|4,244|0.1
-ubuntu-touch|Java|2,065|3,732|0.1
-ubuntu-touch|TeX/LaTeX|1,266|1,602|0.1
-ubuntu-touch|XSL Transformation|732|890|0.0
-ubuntu-touch|SQL|662|717|0.0
-ubuntu-touch|Tcl|634|795|0.0
-ubuntu-touch|Ruby|374|440|0.0
-ubuntu-touch|Scilab|301|301|0.0
-ubuntu-touch|OpenGL Shading|275|563|0.0
-ubuntu-touch|Scheme|170|200|0.0
-ubuntu-touch|NSIS|134|147|0.0
-ubuntu-touch|Vim Script|97|170|0.0
-ubuntu-touch|C#|87|173|0.0
-ubuntu-touch|DOS batch script|3|3|0.0
-ubuntu-touch|MetaFont|2|2|0.0
+facebook-react|JavaScript|93,533|121,322|95.9
+facebook-react|C++|1,227|1,703|1.3
+Tensorflow|C++|434,442|615,933|49.9
+Tensorflow|Python|308,116|512,190|41.5
+Tensorflow|Go|12,565|25,257|2.0
+Tensorflow|Java|5,819|9,250|0.7
+Oh-My-Zsh|Perl|71|113|4.5
+Oh-My-Zsh|Python|66|84|3.3
+Oh-My-Zsh|Ruby|52|120|4.8
+react-native|JavaScript|117,163|165,663|48.3
+react-native|Java|57,754|84,051|24.5
+react-native|Objective-C|33,754|45,349|13.2
+react-native|C++|17,954|28,096|8.2
+react-native|C|5,185|10,010|2.9
+Electron_framework|C++|63,649|87,679|68.6
+Electron_framework|JavaScript|22,043|25,698|20.1
+Electron_framework|Objective-C|5,986|7,989|6.3
+Electron_framework|Python|2,756|3,992|3.1
+Linux|C|15,479,629|21,297,764|95.6
+Linux|Assembly|296,601|415,099|1.9
+Linux|C++|247,146|410,331|1.8
+swift-lang|C++|460,958|672,122|89.0
+swift-lang|Python|28,091|45,602|6.0
+swift-lang|Objective-C|5,606|7,977|1.1
+swift-lang|C|4,785|7,231|1.0
+atom_editor|JavaScript|121,700|144,335|30.9
+atom_editor|CoffeeScript|114,504|152,787|32.7
+atom_editor|C++|45,018|50,121|10.7
+atom_editor|C|38,718|45,040|9.6
+atom_editor|Python|13,960|16,017|3.4
+meteor-js|JavaScript|187,349|249,272|88.5
+meteor-js|C|5,352|7,826|2.8
+meteor-js|C++|4,865|6,867|2.4
+node|C++|1,594,969|2,120,674|41.2
+node|JavaScript|975,027|1,316,322|25.6
+node|Assembly|547,672|591,416|11.5
+node|C|499,572|726,696|14.1
+node|Perl|108,471|176,852|3.4
+node|Python|77,840|124,334|2.4
+rails|Ruby|237,834|336,777|96.3
+rails|JavaScript|7,107|9,772|2.8
+three_js|JavaScript|186,273|308,812|63.1
+three_js|Python|11,005|17,511|3.6
+three_js|C++|4,107|5,316|1.1
+nwjs|C++|31,841|45,646|54.7
+nwjs|JavaScript|14,238|22,588|27.1
+nwjs|Objective-C|3,208|4,691|5.6
+nwjs|Python|724|941|1.1
+httpie|Python|8,402|12,893|97.9
+httpie|Ruby|66|96|0.7
+afnetworking|Objective-C|8,003|11,411|53.5
+afnetworking|C|444|2,190|10.3
+afnetworking|C++|230|1,212|5.7
+codebrackets|JavaScript|361,254|540,586|83.5
+codebrackets|C++|13,274|19,690|3.0
+codebrackets|Python|7,480|10,681|1.7
+codebrackets|Objective-C|2,757|4,230|0.7
+JQuery-File-Upload|JavaScript|4,966|6,120|63.2
+JQuery-File-Upload|PHP|1,223|1,406|14.5
+JQuery-File-Upload|Go|323|361|3.7
+JQuery-File-Upload|Python|169|204|2.1
+Django|Python|215,344|313,435|90.9
+Django|JavaScript|13,644|20,053|5.8
+redis|C|101,568|143,742|68.7
+redis|Tcl|12,530|15,213|7.3
+redis|C++|4,599|7,164|3.4
+redis|Perl|4,147|5,611|2.7
+redis|Ruby|1,722|2,284|1.1
+poser-lantern|Go|560,880|686,419|59.8
+poser-lantern|C|130,838|208,184|18.1
+poser-lantern|JavaScript|112,597|201,515|17.6
+poser-lantern|Python|4,858|6,985|0.6
+elasticsearch|Java|1,966,066|2,792,597|98.3
+elasticsearch|Groovy|22,138|34,076|1.2
+neovim|C|184,286|259,181|46.8
+neovim|Lua|65,228|74,604|13.5
+neovim|Python|2,629|4,898|0.9
+phantomjs|JavaScript|24,336|33,704|31.9
+phantomjs|C++|6,409|9,946|9.4
+phantomjs|C|4,645|6,447|6.1
+phantomjs|Java|2,041|3,373|3.2
+phantomjs|Python|945|1,262|1.2
+discourse_org|Ruby|138,364|178,620|65.9
+discourse_org|JavaScript|62,091|87,725|32.4
+netdata|C|43,125|58,540|44.7
+netdata|Python|14,837|20,314|15.5
+netdata|JavaScript|12,867|17,509|13.4
+netdata|C++|354|666|0.5
+scikit-learn|Python|115,067|222,845|89.1
+scikit-learn|C++|7,110|8,542|3.4
+scikit-learn|C|4,565|6,282|2.5
+scikit-learn|JavaScript|1,780|2,742|1.1
+RethinkDB|C++|240,004|331,541|59.9
+RethinkDB|Python|72,902|113,630|20.5
+RethinkDB|Java|37,639|47,337|8.5
+RethinkDB|CoffeeScript|11,840|16,903|3.1
+caffe|C++|60,087|80,135|78.9
+caffe|Python|5,330|9,758|9.6
+caffe|CUDA|4,686|5,587|5.5
+caffe|Matlab|625|924|0.9
+shadowsocks|Python|8,337|12,036|88.7
+shadowsocks|D|278|560|4.1
+protobuf|C++|214,202|313,750|71.1
+protobuf|Java|68,642|101,504|23.0
+protobuf|Objective-C|50,751|64,312|14.6
+protobuf|C|29,119|40,225|9.1
+protobuf|Python|18,546|30,838|7.0
+protobuf|PHP|8,003|13,877|3.1
+protobuf|JavaScript|7,465|14,193|3.2
+protobuf|Ruby|3,843|4,801|1.1

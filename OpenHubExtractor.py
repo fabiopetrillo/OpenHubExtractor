@@ -60,7 +60,8 @@ class MyHTMLParser(HTMLParser):
     def handle_endtag(self, tag):
         if tag == 'tr' and self.foundBlock:
             #Final output
-            print project + "|" + self.language + "|" + self.codeLines + "|" + self.totalLines + "|" + self.percentage
+            if float(self.percentage) >= 0.5 and languages.__contains__(self.language):
+                print(project + "|" + self.language + "|" + self.codeLines + "|" + self.totalLines + "|" + self.percentage)
             self.foundBlock = False
             self.language = ""
             self.codeLines = -1
@@ -71,11 +72,19 @@ class MyHTMLParser(HTMLParser):
 URL = "https://www.openhub.net/p/{0}/analyses/latest/languages_summary"
 
 # Line command CSV file argument
-file = sys.argv[1]
+projectFile = sys.argv[1]
+languageFile = sys.argv[2]
 
-print "Project|Language|CodeLines|TotalLines|Percentage"
+languages = set()
 
-with open(file, 'rU') as f:
+print("Project|Language|CodeLines|TotalLines|Percentage")
+
+with open(languageFile, 'rU') as f:
+    freader = csv.reader(f)
+    for row in freader:
+        languages.add(row[0])
+
+with open(projectFile, 'rU') as f:
     freader = csv.reader(f, delimiter = ',', quoting=csv.QUOTE_NONE)
     for row in freader:
         project = row[0]
