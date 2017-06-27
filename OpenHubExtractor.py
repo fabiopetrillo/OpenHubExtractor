@@ -7,7 +7,9 @@ from HTMLParser import HTMLParser
 
 project = ""
 
+
 class MyHTMLParser(HTMLParser):
+
     foundBlock = False
     foundLanguage = False
     foundCodeLines = False
@@ -56,7 +58,6 @@ class MyHTMLParser(HTMLParser):
             self.foundPercentage = False
             self.percentage = data.replace("%","").strip()
 
-
     def handle_endtag(self, tag):
         if tag == 'tr' and self.foundBlock:
             #Final output
@@ -67,6 +68,7 @@ class MyHTMLParser(HTMLParser):
             self.codeLines = -1
             self.totalLines = -1
             self.percentage = -1
+
 
 #OpenHub main URL
 URL = "https://www.openhub.net/p/{0}/analyses/latest/languages_summary"
@@ -85,11 +87,10 @@ with open(languageFile, 'rU') as f:
         languages.add(row[0])
 
 with open(projectFile, 'rU') as f:
-    freader = csv.reader(f, delimiter = ',', quoting=csv.QUOTE_NONE)
+    freader = csv.reader(f, delimiter=',', quoting=csv.QUOTE_NONE)
     for row in freader:
         project = row[0]
 
         resp = requests.get(url=URL.format(project))
         parser = MyHTMLParser()
         parser.feed(resp.text)
-
