@@ -16,22 +16,15 @@ class MyHTMLParser(HTMLParser):
         if tag == 'td' and len(attrs) > 0 and attrs[0][1] == "col-md-4":
             self.foundCodeLocation = True
 
-
     def handle_data(self, data):
         if self.foundCodeLocation and self.codeLocation == "":
             self.codeLocation = data
             print(project + "|" + self.codeLocation)
 
-
 #OpenHub main URL
 URL = "https://www.openhub.net/p/{0}/enlistments"
 # Line command CSV file argument
 projectFile = sys.argv[1]
-
-
-languages = set()
-
-print("Project|CodeLocation")
 
 with open(projectFile, 'rU') as f:
     freader = csv.reader(f, delimiter = ',', quoting=csv.QUOTE_NONE)
