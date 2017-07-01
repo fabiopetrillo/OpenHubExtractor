@@ -27,6 +27,7 @@ ax.set_yticks(y_pos)
 ax.invert_yaxis()  # labels read top-to-bottom
 ax.set_yticklabels(data['Pair'])
 ax.set_xlabel('Occurrences')
+ax.set_title('Top 10 Programming Languages Pairs in 150 projects')
 
 ax.plot()
 plt.show()
